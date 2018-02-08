@@ -1,0 +1,12 @@
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\bin\Debug\ITest.dll.config
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\bin\Debug\ITest.dll
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\bin\Debug\ITest.pdb
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\obj\Debug\ITest.dll
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\obj\Debug\ITest.pdb
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\bin\Debug\ITest.dll.config
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\bin\Debug\ITest.dll
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\bin\Debug\ITest.pdb
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\obj\Debug\ITest.dll
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\ITest\obj\Debug\ITest.pdb

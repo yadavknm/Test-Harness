@@ -1,0 +1,16 @@
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Logger.dll.config
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Logger.dll
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Logger.pdb
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Repository.dll
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Repository.pdb
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\obj\Debug\Logger.dll
+F:\SU\Courses\Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\obj\Debug\Logger.pdb
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Logger.dll.config
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Logger.dll
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Logger.pdb
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Repository.dll
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\bin\Debug\Repository.pdb
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\obj\Debug\Logger.dll
+F:\SU\Courses\Sem1 Fall 2016\SMA\yadav_99078388_project2\TestHarness_Project2\Logger\obj\Debug\Logger.pdb

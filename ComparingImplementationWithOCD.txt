@@ -1,0 +1,22 @@
+Comparing the Implementation with the Operational Concept developed in Project #1
+----------------------------------------------------------------------------------
+
+REQUIREMENT 10: Shall contain a brief text document that compares this implementation with the concept developed in Project #1.
+
+Comparison between the implemented Test Harness and the concept previously developed:
+1) The concept parses the XML requests in the initial stages, even before the ChildAppDomain is created. However, the Test Harness implementation parses the request
+   after the ChildAppDomain is created for each XML request.
+2) According to the concept, the DLLs are extracted from the request even before ChildAppDomain is created. In the implementation, the DLLs are extracted fr each request
+   after creating a ChildAppDomain for each request. The implementation proves to be effective as only the necessary DLLs for a particular request can be extracted.
+3) The concept addresses the amount of information that is given back to the user as a result log. The implementation however, provides only the necessary information
+   including the test results.
+
+Does this project fully implement its concept?
+The implementation has followed the concept in most of the cases, including the design, package structure and organizing principle with minor modifications.
+There are certain issues from the concept pertaining to security and user interfaces, which could not be implemeted in this version of Test Harness. However, 
+those concerns will be addressed in the next version of this Test Harness.
+
+Points that made the original concept less relevant:
+Points 1 and 2, mentioned above in the comparison made the original concept less relevant. It makes sense to parse the request and extract the DLLs after the ChildAppDomain
+is created for each request as this would give the flexibility to concentrate only on the necessary XML requests and DLLs rather than an entire list of parsed XMLs 
+and unrelated DLLs.
